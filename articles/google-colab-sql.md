@@ -33,7 +33,7 @@ Google Colaboratory (Colab) でSQLクエリを実行できる。
 
 例えば、`postgres`データベースのテーブル一覧を取得するSQLクエリを実行してみる。
 
-```python
+```sql
 # SQLクエリを実行する
 %%sql
 SELECT
@@ -61,7 +61,7 @@ print(_)
 
 マジックコマンドの`%%sql`を`%%sql 変数名 <<`とすると、`変数名`という名前の変数にSQLクエリの実行結果を格納できる。
 
-```python
+```sql
 # SQLクエリを実行し、結果を変数resultに格納する
 %%sql result <<
 SELECT
