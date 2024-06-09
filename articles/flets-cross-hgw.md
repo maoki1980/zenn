@@ -2,8 +2,8 @@
 title: "ドコモ光10ギガが使えるようになるまで"
 emoji: "🔖"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
-published: false
+topics: ["ドコモ光", "ルーター", "ipv4", "ipoe"]
+published: true
 ---
 
 ## 要約
