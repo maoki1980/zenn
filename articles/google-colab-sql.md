@@ -2,8 +2,8 @@
 title: "Google Colab でSQLクエリを実行する"
 emoji: "🔥"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
-published: false
+topics: ["googlecolaboratory", "database", "postgresql", "python"]
+published: true
 ---
 
 ## 要約
@@ -84,8 +84,8 @@ display(df)
 
 ## 参考コード
 
-- ()[]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/maoki1980/zenn/blob/main/notebooks/google-colab-sql/01_google-colab-sql.ipynb)
 
 ## 関連記事
 
-- (【2023年版】Google ColabでSQLを使う【DuckDB, JupySQL】 #Python - Qiita)[https://qiita.com/_jinta/items/479355d4709cd30d56c8]
+- [【2023年版】Google ColabでSQLを使う【DuckDB, JupySQL】 #Python - Qiita](https://qiita.com/_jinta/items/479355d4709cd30d56c8)
