@@ -2,8 +2,8 @@
 title: "Ryeを用いたPyTorchおよびPyG環境構築"
 emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
-published: false
+topics: ["rye", "cuda", "cudnn", "torch", "torchgeometric"]
+published: true
 ---
 
 ## 要約
