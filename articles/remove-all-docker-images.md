@@ -11,9 +11,9 @@ published: true
 すべてのコンテナを停止し、すべてのコンテナを削除し、すべてのイメージを削除する。
 
 ```bash
-docker stop $(sudo docker ps -aq)
-docker rm $(sudo docker ps -aq)
-docker rmi $(sudo docker images -q)
+docker stop $(docker ps -aq)
+docker rm $(docker ps -aq)
+docker rmi $(docker images -q)
 ```
 
 ## 注意点
