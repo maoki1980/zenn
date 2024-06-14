@@ -2,8 +2,8 @@
 title: "すべてのDockerイメージを削除する"
 emoji: "🍣"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["docker"]
-published: false
+topics: ["docker", "bash", "linux", "ubuntu"]
+published: true
 ---
 
 ## 要約
